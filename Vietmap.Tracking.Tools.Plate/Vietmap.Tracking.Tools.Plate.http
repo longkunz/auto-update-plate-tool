@@ -1,0 +1,6 @@
+@Vietmap.Tracking.Tools.Plate_HostAddress = http://localhost:5196
+
+GET {{Vietmap.Tracking.Tools.Plate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
